@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Gangs of Wassepur</title>
+    <release-date>
+    	<day>25</day>
+    	<month>5</month>
+    	<year>2014</year>
+    </release-date>
+    <theatre-name>Inox</theatre-name>
+    <theatre-name>Cinepolis</theatre-name>
+    <theatre-name>CityPride</theatre-name>
+    <city>Pune</city>
+    <city>Mumbai</city>
+    <city>Indore</city>
+  </movie>
+  <movie>
+    <code>102</code>
+    <title>Bahubali-The Conclusion</title>
+    <theatre-name>Inox</theatre-name>
+    <theatre-name>PVR Cinemas</theatre-name>
+  </movie>
+</movies>
